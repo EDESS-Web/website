@@ -1,0 +1,107 @@
+<svg
+    id="b20be4e7-e69d-411d-991c-cfbd05cc0aec"
+    data-name="Layer 1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1096.32 442.96"
+>
+    <defs>
+    <style>
+        
+
+        
+    </style>
+    <linearGradient
+        id="triangle-bottom-grd"
+        x1="25.41"
+        y1="326.27"
+        x2="392.38"
+        y2="326.27"
+        gradientUnits="userSpaceOnUse"
+    >
+        <stop offset="0" stop-color="#5ca791" />
+        <stop offset="0.24" stop-color="#579e8d" />
+        <stop offset="0.63" stop-color="#498481" />
+        <stop offset="0.99" stop-color="#396774" />
+    </linearGradient>
+    <linearGradient
+        id="triangle-mid-grd"
+        x1="28.17"
+        y1="256.67"
+        x2="371.1"
+        y2="256.67"
+        gradientTransform="matrix(1.05, 0.47, -0.6, 1.36, 106.38, -130.16)"
+        gradientUnits="userSpaceOnUse"
+    >
+        <stop offset="0" stop-color="#5ca791" />
+        <stop offset="0.21" stop-color="#53a18c" />
+        <stop offset="0.55" stop-color="#39927f" />
+        <stop offset="0.99" stop-color="#107969" />
+    </linearGradient>
+    <linearGradient
+        id="triangle-top-grd"
+        x1="29.26"
+        y1="207.68"
+        x2="391.41"
+        y2="207.68"
+        gradientUnits="userSpaceOnUse"
+    >
+        <stop offset="0" stop-color="#7cb4a2" />
+        <stop offset="0.49" stop-color="#73b09d" />
+        <stop offset="0.99" stop-color="#64ab96" />
+    </linearGradient>
+    </defs>
+    <g transform="translate(-20 -110)">
+    <path
+    class="triangle-bottom"
+    d="M375.59,478.59c31.72,38,17.17,69.09-32.33,69.09H115.41c-49.5,0-90-40.5-90-90V149.1c0-49.5,26-58.91,57.67-20.91Z"
+    transform="translate(-25.41 -104.72)"
+    />
+    <path
+    class="triangle-mid"
+    d="M128,445.23,376.9,297c20.9-12.44,19.08-43.28-3.14-53.18L68.65,107.9C46.44,98,22.29,117.26,27,141.12L83.24,425.27A30,30,0,0,0,128,445.23Z"
+    transform="translate(-25.41 -104.72)"
+    />
+    <path
+    class="triangle-top"
+    d="M224.69,304.56l161-165.91c12.31-12.68,3.33-33.93-14.35-33.93H49.3C31.63,104.72,22.64,126,35,138.65L196,304.56A20,20,0,0,0,224.69,304.56Z"
+    transform="translate(-25.41 -104.72)"
+    />
+    </g>
+    
+    <path
+    class="logo-wordmark-letter"
+    style="--order: 1; --color: #18434a"
+    fill="currentColor"
+    d="M540.92,228.44H422.45V389.1s-2.29,34,34,34h84.46V380.69H481.67s-16.85.55-16.85-16.84v-17.4h59V304.87H464.49V270.32h76.43Z"
+    transform="translate(-25.41 -104.72)"
+    />
+    <path
+    class="logo-wordmark-letter"
+    style="--order: 2; --color: #1d7874"
+    fill="currentColor"
+    d="M684.72,388.84V270.06c0-43.11-34.85-41.27-34.85-41.27H566v194h85.3C686.1,422.77,684.72,388.84,684.72,388.84ZM643.11,287.72V363.5c0,18.92-16.86,16.85-16.86,16.85H608.83V270.52s-1.38-.4,16.68-.4S643.11,287.72,643.11,287.72Z"
+    transform="translate(-25.41 -104.72)"
+    />
+    <path
+    class="logo-wordmark-letter"
+    style="--order: 3; --color: #679289"
+    fill="currentColor"
+    d="M836.51,228.44H718V389.1s-2.29,34,34,34h84.46V380.69H777.26s-16.84.55-16.84-16.84v-17.4h59V304.87H760.08V270.32h76.43Z"
+    transform="translate(-25.41 -104.72)"
+    />
+    <path 
+    class="logo-wordmark-letter"
+    style="--order: 4; --color: #f4c095"
+    fill="currentColor"
+    d="M981.2,228.44H909s-45.94-3.08-45.9,34c0,26.64,0,33.3,0,33.3s-.67,29.43,35,36.08c26.29,4.89,27.06,4.85,27.06,4.85s13.94,1.24,14,18.73c0,8.19.05,8.68.05,8.68s1.11,16.5-14.94,16.8c-8.6.15-61.23,0-61.23,0v42.22h84.69s33.9,3.11,33.9-33.62V339.27s0-25.63-21.13-31.14L922.33,301s-18.81-2.54-17.56-18.58c1-12.76,17.87-11.88,17.87-11.88h59Z" 
+    transform="translate(-25.41 -104.72)"
+    />
+    <path
+    class="logo-wordmark-letter"
+    style="--order: 5; --color: #ee2e31"
+    fill="currentColor"
+    d="M1121.38,228h-72.22s-45.94-3.08-45.91,34c0,26.64,0,33.3,0,33.3s-.67,29.44,35,36.08c26.3,4.89,27.06,4.85,27.06,4.85s13.94,1.24,14,18.73c0,8.19.05,8.68.05,8.68s1.11,16.5-14.94,16.8c-8.59.16-61.22,0-61.22,0v42.22h84.68s33.9,3.11,33.9-33.62V338.81s0-25.63-21.13-31.13l-38.16-7.11S1043.7,298,1045,282c1-12.76,17.87-11.88,17.87-11.88h59Z" 
+    transform="translate(-25.41 -104.72)"
+    />
+</svg>
