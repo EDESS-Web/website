@@ -1,5 +1,9 @@
 # Website Edess
 
+SETUP: Create a .env file in the project directory, create an environment variable called VITE_API, and set it to the wordpress API route.
+
+E.g:
+```VITE_API = http://localhost:80/wordpress/wp-json/wp/v2/```
 
 
 ## Getting started
