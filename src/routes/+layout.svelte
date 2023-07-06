@@ -262,7 +262,9 @@
 
                     &:hover {
                         position: relative;
-
+                        .nav-card-extra {
+                            top: 0;
+                        }
                     }
                 }
                 .nav-card-extra {
@@ -283,6 +285,12 @@
                             text-decoration: none;
                             color: rgb(80, 80, 80);
                         }
+                    }
+                    top: 0;
+
+                    &:hover {
+                        top: 0;
+
                     }
                 }
             }
