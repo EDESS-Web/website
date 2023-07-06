@@ -74,41 +74,6 @@
             margin: 0 auto;
         }
     }
-
-    @media only screen and (max-width: 1100px)  {
-    .gen-wrapper {
-        .header-wrapper {
-            display: block;
-            height: auto;
-
-            .header-text {
-                padding-top: 3em;
-                padding-bottom: 3em;
-            }
-
-            img {
-                width: 100vw;
-                height: 50%;
-            }
-        }
-        .services-wrapper-2 {
-            padding: 3em 0;
-            .service-box-wrapper {
-                flex-direction: column;
-                box-sizing: border-box;
-                align-items: center;
-                text-align: center;
-                .service {
-                    width: 70%;
-                    img {
-                        width: 100%;
-                        height: 10em;
-                    }
-                }
-            }
-        }
-    } 
-}
 </style>
 
 <div class="gen-wrapper">

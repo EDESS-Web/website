@@ -70,6 +70,14 @@
         }
     }
 
+    @media only screen and (max-width: 1100px)  {
+        #svelte {
+            .pg-container {
+                display: block;
+            }
+        }
+    }
+
 </style>
 
 <div class="pg-container">

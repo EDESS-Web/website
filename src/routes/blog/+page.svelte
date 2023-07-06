@@ -70,9 +70,46 @@
         text-decoration: none;
     }
 
+    @media only screen and (max-width: 1100px)  {
+        .gen-wrapper {
+            .pg-container {
+                display: block;
+                .big-card {
+                    width: 100%;
+                    img {
+                        display: none;
+                    }
+                    h1 {
+                        margin: 0;
+                        width: 100%;
+                        font-size: 2em;
+                    }
+                }
+
+                .blog-previews {
+                    .blog-card {
+                        border-left: #ff9c33 .5em solid;
+
+                        padding-left: 1em;
+                        .preview-featured-img {
+                            width: 5em;
+                            height: 3em;
+                        }
+                        .par-content, .hoverable-link {
+                            display: none;
+                        }
+                        .blog-title {
+                            font-size: 1.2em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
 </style>
 
-<div>
+<div class="gen-wrapper">
     <div class="pg-container">
         <div class="big-card">
             <img src="/icon.png" style="width: 3vw; height: auto;" alt="edess-logo">

@@ -275,6 +275,7 @@
                     background-color: white;
                     padding: 0 2vh 0 0;
 
+
                     ul {
                         list-style-type: none;
                     }
