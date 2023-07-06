@@ -54,7 +54,7 @@
 
 <div class="top-w-blur">
     <div class="top-content">
-        <h1 class="par-title">Developing Curriculums For Schools & Kindergarten</h1>
+        <h1 class="content-page-title par-title">Developing Curriculums For Schools & Kindergarten</h1>
         <h2 class="sh">Implementing 21<sup>st</sup> Century Learning & enhancing teaching & learning techniques</h2>    
     
     

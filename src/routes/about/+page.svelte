@@ -313,6 +313,49 @@
         margin-top: 1em;
         color: #232b63;
     }
+
+    @media only screen and (max-width: 1000px)  {
+        .usp-a {
+            grid-template-columns: 1fr;
+            .c1 {
+                width: 100vw;
+                box-sizing: border-box;
+                h1 {
+                    font-size: 2em;
+                }
+            }
+        }
+
+        .img-partners-wrapper {
+            flex-direction: column;
+            align-items: center;
+            img {
+                height: 5em;
+                width: fit-content;
+            }
+        }
+
+        .logo-svg-header {
+            padding-top: 4em;
+            .tagline-cont {
+                .tagline {
+                    font-size: 1em;
+                }
+            }
+        }
+
+        #three-text {
+            width: 60%;
+            h1 {
+                font-size: 3em;
+            }
+            p {
+                font-size: 1.3em;
+                font-weight: 500;
+            }   
+        }
+    }
+
 </style>
 
 <div class="page-sized-col">

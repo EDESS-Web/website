@@ -22,6 +22,14 @@
     .cta {
         text-align: center;
         padding: 3vw;
+        margin-bottom: 2em;
+    }
+
+    @media only screen and (max-width: 1100px)  {
+        .frame-csr {
+            grid-template-columns: 1fr;
+            margin-bottom: 2em;
+        }
     }
 </style>
 

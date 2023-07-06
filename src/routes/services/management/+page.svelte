@@ -47,7 +47,7 @@
 </style>
 
 <div class="par-wrapper">
-    <h1 class="par-title" style="--color: #ff9a26">Helping Schools To Manage And Operate</h1>
+    <h1 class="content-page-title par-title" style="--color: #ff9a26">Helping Schools To Manage And Operate</h1>
     <div class="par-w-img">
         <div class="par-content">
             <p>EDESS was initiated with the aim to assist schools that desire a high-quality education for their students. Schools need a good framework and support for their daily management and operations to be effective and efficient. Our experience and expertise empower schools to focus on their main goal: to have a conducive learning environment, where children thrive and be successful.</p>

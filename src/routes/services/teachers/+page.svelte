@@ -37,7 +37,7 @@
 </style>
 
 <div class="top-content">
-    <h1 class="par-title">Empowering teachers in every step of the way</h1>
+    <h1 class="content-page-title par-title">Empowering teachers in every step of the way</h1>
     <h2>We understand it's hard to teach & educate – we want to empower you to explore new teaching skills to make your classroom enjoyable.</h2>    
     <div class="par-w-img">
         <div class="par-content">

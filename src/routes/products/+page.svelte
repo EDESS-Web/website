@@ -199,6 +199,66 @@
             }
         }
     }
+
+    @media only screen and (max-width: 1100px)  {
+        .page-scroller {
+
+            .pg-sized {
+                max-height: 100vh;
+
+                grid-template-columns: 1fr;
+                grid-template-rows: 1fr .1fr;
+
+                .pg-big-title {
+                    padding: 2em 1em;
+                    .pg-block-content {
+                        .hover-hint {
+                            font-size: .5em;
+                            margin-bottom: .2em;
+                        }
+                        h1 {
+                            font-size: 1em;
+                            margin-bottom: .5em;
+                        }
+                        h2 {
+                            font-size: 1em;
+                        }
+                        .usp-cards {
+                            grid-template-columns: 1fr;
+                            gap: 1em;
+
+                            .usp-2 {
+                                border-radius: 1em;
+                                width: 100%;
+                                box-sizing: border-box;
+                                padding: 1em 1em;
+                                .usp-title {
+                                    font-size: 1em;
+                                }
+
+                                h2 {
+                                    font-size: 1em;
+                                }
+                            }
+                        }
+                        &:hover {
+                            .usp-cards{
+                                max-height: 800px;
+                            }
+                        }
+                    }
+                }
+                .cta-hover {
+                    img {
+                        width: 100%;
+                        height: max-content;
+                    }
+                    height: max-content;
+                    box-sizing: border-box;
+                }
+            }
+        }
+    }
 </style>
 
 <div class="page-scroller-wrapper">

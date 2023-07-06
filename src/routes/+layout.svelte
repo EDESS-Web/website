@@ -37,7 +37,6 @@
         var navbg = document.getElementById("nav-bg")!;
         var menu = document.getElementById("navham")!;
 
-
         // show hamburger menu for mobile
         hamburger.addEventListener("click", function() {
             menu.classList.toggle("show");
@@ -54,7 +53,7 @@
             if (window.innerWidth > 1100) {
                 menu.classList.remove("show");
                 hamburger.style.display = "none";
-                navbg.style.backgroundColor = "transparent";
+                // navbg.style.backgroundColor = "transparent";
 
                 menu.style.display = "flex";
                 } else {
@@ -259,6 +258,8 @@
             .nav-main-list {
                 display: none;
                 .nav-card-has-extra {
+                    position: relative;
+
                     &:hover {
                         position: relative;
 
@@ -271,6 +272,7 @@
                     
                     background-color: white;
                     padding: 0 2vh 0 0;
+
                     ul {
                         list-style-type: none;
                     }
@@ -303,7 +305,7 @@
         }
     }
 </style>
-<div class="nav-bg" id="nav-bg" style="position: {pos};">
+<div class="nav-bg" id="nav-bg" style="position: {pos};" data-sveltekit-reload>
     <nav class="navbar">
         <div class="logo-ham">
             <a href="/"><img class="nav-icon" src="/icon.png" alt="The EDESS logo"></a>

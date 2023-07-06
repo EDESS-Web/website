@@ -62,6 +62,30 @@
         gap: 1em;
         align-items: flex-start;
     }
+
+    @media only screen and (max-width: 1000px)  {
+        .content-wrapper {
+            .contact-method-wrapper {
+                flex-direction: column;
+                h1 {
+                    margin-bottom: 1em;
+                }
+                .mail-form {
+                    .cf-input {
+                        width: 100%;
+                    }
+                    margin-bottom: 2em;
+                }
+
+                .hq-location-wrapper {
+                    iframe {
+                        width: 100%; 
+                        height: 100vw;
+                    }
+                }
+            }
+        }
+    }
 </style>
 
 <div class="content-wrapper">
