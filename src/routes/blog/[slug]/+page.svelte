@@ -58,6 +58,8 @@
 
     .pg-container {
         margin-top: 3vw;
+        margin-bottom: 3vw;
+
         display: grid;
         grid-template-columns: 1fr 2fr;
         padding: 0 10vw;
@@ -67,14 +69,6 @@
     .back {
         &:hover {
             color: #ff9c33;
-        }
-    }
-
-    @media only screen and (max-width: 1100px)  {
-        #svelte {
-            .pg-container {
-                display: block;
-            }
         }
     }
 
